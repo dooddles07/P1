@@ -36,7 +36,7 @@ export default function HomeScreen() {
           </View>
           <Text style={styles.bioText}>
             Hey there! I'm Brixsonn Romero, a Computer Science student on a mission to conquer the tech world—one bug at a time. 
-            I have an undying passion for coding, ethical hacking, and problem-solving. I want also to fly like a butterfly fly high butterfly
+            I have an undying passion for coding, ethical hacking, and problem-solving.
           </Text>
         </Animated.View>
 
